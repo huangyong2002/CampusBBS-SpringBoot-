@@ -1,5 +1,5 @@
 # CampusBBS-SpringBoot-
-采用前后端分离的单体架构，基于springboot开发的校园交流论坛,功能类似于掘金，
+基于Springboot开发，实现智能化的校园交流论坛，功能类似于掘金。
 ### 运行环境
 Mysql8.0、Jdk1.8、Redis4.0、Tomcat8  
 Chrome浏览器
